@@ -13,6 +13,11 @@ public class Parentsum1 {
 		offset = 0;	
 	}
 	
+	public Parentsum2(){
+		offset = 0;	
+	}
+	
+	
 	public Parentsum1(int offset){
 		this.offset = offset;
 	}
